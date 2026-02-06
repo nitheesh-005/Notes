@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faisal.md",
+                "file": "DSA/Faisal.md",
                 "mode": "source",
                 "source": false
               },
@@ -237,10 +237,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5e2a3878aec5a47",
+  "active": "a443e24716f4c766",
   "lastOpenFiles": [
+    "DSA",
     "Hello.md",
-    "Faisal.md",
+    "DSA/Faisal.md",
     "Fasial.md",
     "Welcome.md"
   ]
