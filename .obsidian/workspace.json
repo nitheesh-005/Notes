@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Hello"
             }
+          },
+          {
+            "id": "bdac743ed4beb208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fasial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fasial"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,9 +223,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acccbf1f182be265",
+  "active": "bdac743ed4beb208",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Hello.md"
+    "Hello.md",
+    "Fasial.md",
+    "Welcome.md"
   ]
 }
